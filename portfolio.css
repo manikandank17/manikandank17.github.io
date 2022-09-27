@@ -1,0 +1,122 @@
+{
+    padding: 0;
+    margin: 0;
+
+  }
+
+
+  .nav-text {
+    font-family: 'Whisper', cursive;
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+  }
+
+  .title {
+
+    font-family: 'Roboto', sans-serif;
+
+
+    color:skyblue;
+  }
+
+  .image {
+
+    margin: auto;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+
+    background-color:skyblue;
+    background-image: skyblue;
+
+
+  }
+
+  .font-change {
+    font-family: sans-serif;
+  }
+
+
+  .banner {
+    width: 70%;
+    height: auto;
+
+
+
+  }
+
+  .banner1 {
+    width: 80%;
+    padding: 10px;
+  }
+
+  .description {
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 0.8;
+  }
+
+  .desc2 {
+    font-weight: 600;
+    opacity: 0.6;
+
+  }
+
+  /* banner finish */
+  .about-container {
+
+    background-image: skyblue;
+  }
+
+  .banner-btn {
+    background-color: skyblue;
+  }
+
+
+
+  .about-des {
+    opacity: 0.8;
+  }
+
+  .about-btn:hover {
+    background-color:skyblue;
+  }
+
+
+
+
+
+  .accordion-header {
+    color: skyblue;
+  }
+
+  .bar-color {
+    background-color: skyblue;
+  }
+
+  .purple-color {
+    color: skyblue;
+  }
+
+  .accordion-button {
+    border: 1px solid skyblue;
+  }
+
+  .weight {
+    font-weight: 700;
+  }
+
+  .education-btn {
+    border: 1px solid skyblue;
+    padding: 3%;
+    color: skyblue;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 2%;
+  }
+
+  .education-btn:hover {
+    color: white;
+    background-color: skyblue;
+
+  } 
